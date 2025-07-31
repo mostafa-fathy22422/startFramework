@@ -1,4 +1,4 @@
-import {Component, output, Output} from '@angular/core';
+import {Component} from '@angular/core';
 import {FontAwesomeModule} from '@fortawesome/angular-fontawesome';
 import {faStar} from '@fortawesome/free-solid-svg-icons/faStar';
 
@@ -10,7 +10,7 @@ import {faStar} from '@fortawesome/free-solid-svg-icons/faStar';
 })
 export class About {
 
-  faStar = faStar; // Placeholder for actual icon import
+  faStar = faStar;
 
 
   constructor() {
