@@ -1,0 +1,15 @@
+.footer {
+  background: #2C3E50;
+  color: white;
+}
+
+.footer-end {
+  background: #1A252F;
+  color: darkgray;
+}
+
+.icon-style {
+  border: 1px solid white;
+  border-radius: 50%;
+  padding: 10px 26px 10px 10px;
+}

@@ -1,0 +1,19 @@
+.layerBg {
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+  background: #1ABC9C;
+}
+
+.layerBg:hover {
+  opacity: 0.9;
+}
+
+.display-product {
+  display: none !important;
+}
+
+.img-product {
+  width: 600px !important;
+}
+
